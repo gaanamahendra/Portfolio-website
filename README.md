@@ -35,6 +35,9 @@ Navigate to the project directory and open the index.html file in your web brows
 **Explore the various sections, including:**
 
 *Home
+
 *About Me
+
 *Projects
+
 *Contact
